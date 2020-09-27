@@ -1,4 +1,4 @@
-package be.pxl.ja.opdracht1;
+package be.pxl.ja.streamingservice.model;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

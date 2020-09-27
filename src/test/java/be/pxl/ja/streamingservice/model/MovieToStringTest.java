@@ -1,9 +1,8 @@
-package be.pxl.ja.opdracht1;
+package be.pxl.ja.streamingservice.model;
 
 import java.time.LocalDate;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class MovieToStringTest {
